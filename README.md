@@ -16,6 +16,7 @@ This project aimed to design and develop a comprehensive database management sys
 1. **Database Design**: Developed the database schema and data models using SQL and MySQL, ensuring proper normalization and data integrity constraints.
 
 Conceptual Model:
+
 ![image](https://github.com/Wsahil/Database-System-Development-for-Soccer-League/assets/71370836/4e085679-b696-4f6e-b842-d0a952ec4ea4)
 
 Logical Model:
